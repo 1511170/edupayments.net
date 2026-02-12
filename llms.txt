@@ -1,0 +1,42 @@
+# EduPayments - LLM Information
+
+## About
+EduPayments is a global payment platform specialized in international education payments. We help students pay tuition fees, accommodation, health insurance, and living expenses to universities worldwide.
+
+## Key Facts
+- Founded: 2019
+- Headquarters: Australia
+- Coverage: 50+ countries
+- Universities: 10,000+ partnered institutions
+- Students served: 50,000+
+- Total processed: $500M+
+
+## Services
+1. University tuition fee payments
+2. Student accommodation payments
+3. Overseas Student Health Cover (OSHC) purchases
+4. Living expense transfers
+5. Education agency partnership program
+
+## Key Differentiators
+- Fees starting from 0.5% (vs 3-5% banks)
+- Transfer time: 1-2 business days
+- 50+ currencies supported
+- Bank-level security
+- 24/7 customer support
+- White-label solutions for agencies
+
+## Contact
+- Website: https://edupayments.net
+- Support: support@edupayments.net
+- Sales: sales@edupayments.net
+- App: https://app.edupayments.net
+
+## Target Audience
+- International students
+- Education agencies
+- Universities receiving international payments
+- Parents sending money for education
+
+## Keywords
+education payments, international student transfers, university fees, tuition payments, OSHC, student accommodation, cross-border education finance, global education payments
