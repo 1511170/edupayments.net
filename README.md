@@ -13,7 +13,7 @@ Este repositorio contiene solo los archivos estáticos del sitio.
 
 ## 🔄 Última actualización
 
-**Fecha:** 2026-02-13 01:44:39 UTC
+**Fecha:** 2026-02-13 19:16:58 UTC
 
 ## 🛠️ Tecnologías
 
