@@ -9,23 +9,11 @@ Sitio estático de EduPayments - Generado automáticamente con Astro.
 
 ## 📁 Contenido
 
-Este repositorio contiene solo los archivos estáticos del sitio:
+Este repositorio contiene solo los archivos estáticos del sitio.
 
-- `index.html` - Página principal
-- `about/` - Página About
-- `agencies/` - Página Agencies
-- `blog/` - Blog y artículos
-- `contact/` - Página de contacto
-- `request-a-demo/` - Formulario demo
-- `css/` - Estilos
-- `js/` - Scripts
-- `images/` - Imágenes
+## 🔄 Última actualización
 
-## 🔄 Actualización
-
-Este sitio se actualiza automáticamente cuando:
-1. Se hace push al repo fuente (`edupayments-website`)
-2. Se ejecuta `./deploy-to-static-repo.sh`
+**Fecha:** 2026-02-13 00:25:48 UTC
 
 ## 🛠️ Tecnologías
 
