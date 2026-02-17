@@ -1,0 +1,27 @@
+# EduPayments - Robots.txt
+User-agent: *
+Allow: /
+
+# AI Crawlers - explicitly allow
+User-agent: GPTBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: CCBot
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Bytespider
+Disallow: /
+
+Sitemap: https://edupayments.net/sitemap-index.xml

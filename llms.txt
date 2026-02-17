@@ -1,42 +1,71 @@
 # EduPayments - LLM Information
 
 ## About
-EduPayments is a global payment platform specialized in international education payments. We help students pay tuition fees, accommodation, health insurance, and living expenses to universities worldwide.
+EduPayments is an Australian-registered fintech company (AUSTRAC Independent Remittance Dealer, registration IND100684994-001) specializing in international payments for the education industry. We help students pay tuition fees, accommodation, health insurance (OSHC), and living expenses to universities worldwide. We also provide B2B payment management solutions for education and travel agencies.
 
 ## Key Facts
-- Founded: 2019
-- Headquarters: Australia
-- Coverage: 50+ countries
-- Universities: 10,000+ partnered institutions
-- Students served: 50,000+
-- Total processed: $500M+
+- Founded: 2019 in Sydney, Australia
+- Founder & CEO: Rudbel Cano (banking background, former international student)
+- Headquarters: Stone & Chalk Tech Central, Level 1/477 Pitt St, Haymarket NSW 2000, Australia
+- AUSTRAC Registered: IND100684994-001
+- Coverage: 10+ destination countries (Australia, Canada, USA, UK, New Zealand, Ireland, France, Spain, UAE, Malta)
+- Infrastructure partner: Monoova (Australian payments infrastructure)
+- Stats: 99.9% transaction success rate, $1M+ tuition payments processed, 100% AML/KYC compliance
 
 ## Services
-1. University tuition fee payments
-2. Student accommodation payments
-3. Overseas Student Health Cover (OSHC) purchases
-4. Living expense transfers
-5. Education agency partnership program
+1. **For Education & Travel Agencies (B2B)**
+   - Multi-user platform with custom permissions
+   - Automatic commission deduction and transfers
+   - Payment link creation for instant collection
+   - Global fund dispersal to institutions
+   - White-label solutions
+2. **For Students & Individuals (B2C)**
+   - Send tuition fees, rent, and expenses internationally
+   - Competitive exchange rates from 0.5%
+   - Fixed exchange rate locked for 48 hours
+   - PSE local bank integration (Colombia)
+   - Transfers arrive in 1-2 business days
 
 ## Key Differentiators
-- Fees starting from 0.5% (vs 3-5% banks)
+- Rates starting from 0.5% (vs 3-5% traditional banks)
 - Transfer time: 1-2 business days
-- 50+ currencies supported
-- Bank-level security
-- 24/7 customer support
-- White-label solutions for agencies
+- Bank-level security with full AML/KYC compliance
+- AUSTRAC registered and regulated
+- Dedicated support for both agencies and students
+- White-label solutions for partners
+
+## Team
+- Rudbel Cano — CEO & Founder
+- Snayder Cano — CTO
+- Viviana Pineda — Growth Marketing
+- Paloma Daza — Marketing
+- Camilo Cuadros — Product Advisor
 
 ## Contact
 - Website: https://edupayments.net
+- App: https://app.edupayments.net
 - Support: support@edupayments.net
 - Sales: sales@edupayments.net
-- App: https://app.edupayments.net
+- WhatsApp: +61 468 390 552
+- Booking: https://cal.com/edupayments/discovery
+
+## Pages
+- Home: https://edupayments.net/
+- For Agencies: https://edupayments.net/agencies/
+- For Students: https://edupayments.net/personal/
+- About: https://edupayments.net/about/
+- Contact: https://edupayments.net/contact/
+- Blog: https://edupayments.net/blog/
 
 ## Target Audience
-- International students
-- Education agencies
+- International students (primarily from Colombia and Latin America)
+- Education agencies managing student payments
+- Travel agencies with education services
 - Universities receiving international payments
 - Parents sending money for education
 
 ## Keywords
-education payments, international student transfers, university fees, tuition payments, OSHC, student accommodation, cross-border education finance, global education payments
+education payments, international student transfers, university fees, tuition payments, OSHC, student accommodation, cross-border education finance, global education payments, AUSTRAC registered payments, education agency platform, send money for tuition, international education fintech
+
+## Sitemap
+https://edupayments.net/sitemap-index.xml

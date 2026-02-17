@@ -13,7 +13,7 @@ Este repositorio contiene solo los archivos estáticos del sitio.
 
 ## 🔄 Última actualización
 
-**Fecha:** Generated from edupayments-website
+Generado desde edupayments-website.
 
 ## 🛠️ Tecnologías
 
