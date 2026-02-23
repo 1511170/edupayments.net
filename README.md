@@ -13,7 +13,7 @@ Este repositorio contiene solo los archivos estáticos del sitio.
 
 ## 🔄 Última actualización
 
-**Fecha:** 2026-02-23 04:57:15 UTC
+**Fecha:** 2026-02-17 (deploy desde edupayments-website)
 
 ## 🛠️ Tecnologías
 
